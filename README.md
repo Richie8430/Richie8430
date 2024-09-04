@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @Richie8430
+- I'm interested in web development and design
 - 👀 I’m interested in ethical hacking
 - 🌱 I’m currently learning stages in hacking
 - 💞️ I’m looking to collaborate on hacking
