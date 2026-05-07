@@ -2,7 +2,7 @@
 - I'm interested in web development and design
 - 👀 I’m interested in ethical hacking
 - 🌱 I’m currently learning stages in hacking
-- 💞️ I’m looking to collaborate on hacking
+- 💞️ I’m looking to collaborate on fullstack(React, MERN and Django) or cybersecurity projects
 - 📫 How to reach me via my email rrkihongo843@gmail.com
 
 <!---
